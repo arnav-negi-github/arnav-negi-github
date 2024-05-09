@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/arnav-negi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+  <a href="https://twitter.com/negiarnav">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:arnav.negi@jpmchase.com">
-    <img src="https://img.shields.io/badge/JPMorganChase&amp;Co-brown?style=for-the-badge&logo=jpmorgan&logoColor=white" alt="JPMorgan Badge"/>
-  </a>
-  <a href="https://twitter.com/negiarnav">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/JPMorgan%20Chase%20&amp;%20Co-gray?style=for-the-badge&logo=jpmorgan&logoColor=white" alt="JPMorgan Badge"/>
   </a>
 </div>
 <div align="center">
