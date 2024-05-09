@@ -38,6 +38,10 @@ Here are some ideas to get you started:
     </p>
 </div>
 <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<zero-md src="readme1.md"></zero-md>
+<div align="center">
     <h1>
         <a href="http://www.free-iqtest.net" title="Free IQ Test"><img src="http://www.free-iqtest.net/images/badges2/l141.gif" width="200" height="100" alt="Free IQ Test" border="0"></a>
     </h1>
