@@ -1,29 +1,7 @@
-<!--
-**arnav-negi-github/arnav-negi-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- markdownlint-disable MD033 MD041 -->
-<head>
-  <!-- Import element definition -->
-  <script
-    type="module"
-    src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
-  ></script>
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</head>
 <div align="center">
     <p>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zeyada&size=40&pause=1000&color=00FF41&random=false&width=435&lines=Hi+There!;This+is+my+public+GitHub+Space" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zeyada&size=40&pause=1000&color=00FF41&random=false&width=435&lines=Hey+There!;This+is+my+GitHub+Space." alt="Typing SVG" /></a>
     </p>
 </div>
 <div align="center">
@@ -46,11 +24,9 @@ Here are some ideas to get you started:
       </a>
     </p>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="arnav-negi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/arnav-negi?trk=profile-badge">ARNAV NEGI</a></div>
+
 <!-- markdownlint-enable MD033 -->
+## ⚡ About me
 - 🔭 I’m currently working on the Web3 AI algo trading product
 - 🌱 I’m currently learning Prompt Engineering
 - 👯 I’m looking to collaborate on Phi3 Small Language Model (SLM) for Android
@@ -58,7 +34,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, Angular, EDA-Confluent/Kafka, AWS Cloud
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arnav-negi)
 - 😄 Pronouns: He/Him
-<!-- markdownlint-disable MD033 MD041 -->
+
+<!-- markdownlint-disable MD033 -->
 <div align="center">
     <h1>
         <a href="http://www.free-iqtest.net" title="Free IQ Test"><img src="http://www.free-iqtest.net/images/badges2/l141.gif" width="200" height="100" alt="Free IQ Test" border="0"></a>
