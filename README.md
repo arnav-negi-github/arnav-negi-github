@@ -27,7 +27,7 @@
 
 <!-- markdownlint-enable MD033 -->
 ## ⚡ About me
-- 🔭 I’m currently working on the AI algo powered trading product on Web3
+- 🔭 I’m currently working on a cloud native, AI algo powered trading product on Web3
 - 🌱 I’m currently learning Prompt Engineering & Tuning
 - 👯 I’m looking to collaborate on Phi3 Small Language Model (SLM) for Android
 - 🤔 I’m looking for help with any working SLM model I can get my hands on
