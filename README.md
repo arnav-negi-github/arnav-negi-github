@@ -38,6 +38,6 @@
 <!-- markdownlint-disable MD033 -->
 <div align="center">
     <h1>
-        <a href="http://www.free-iqtest.net" title="Free IQ Test"><img src="http://www.free-iqtest.net/images/badges2/l146.gif" width="200" height="100" alt="Free IQ Test" border="0"></a>
+        <a href="http://www.free-iqtest.net" title="Free IQ Test"><img src="http://www.free-iqtest.net/images/badges2/l141.gif" width="200" height="100" alt="Free IQ Test" border="0"></a>
     </h1>
 </div>
