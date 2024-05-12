@@ -8,7 +8,8 @@
     <p>
 <!--     <a href="https://git.io/typing-svg"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmV5NjVoNmM4M3BsZW41ZGVneWF5MW9lZGQyYTE5ZHI5dDh1bmNlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xyx8KRogVl7iM6wHs/giphy.gif" /></a> -->
 <!--     <a href="https://git.io/typing-svg"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc2bjkyMnlpMzloendxOWdhbDg1eWNtZzYxMnJvYnY3MWo5cWZrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" /></a> -->
-        <a href="https://git.io/typing-svg"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQwamR0ZGF2bmN4NjYweGIyd2xha2ZjN2x1YmZxNmFrMzVmOW05aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gssNZ4EF6c8Simk/giphy.gif" /></a>
+<!--         <a href="https://git.io/typing-svg"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQwamR0ZGF2bmN4NjYweGIyd2xha2ZjN2x1YmZxNmFrMzVmOW05aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gssNZ4EF6c8Simk/giphy.gif" /></a> -->
+        <a href="https://git.io/typing-svg"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B6and3N3NyMzZiZ2VlZHVrbnJxOWZhM3hrNTJkbDNjZW9pZnY4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" /></a>
     </p>
 </div>
 <div id="badges" align="center">
