@@ -20,7 +20,7 @@
       <a href="https://twitter.com/negiarnav">
         <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
       </a>
-      <a href="mailto:arnav.negi@jpmchase.com">
+      <a href="#">
         <img src="https://img.shields.io/badge/JPMorgan%20Chase%20&amp;%20Co-gray?style=for-the-badge&logo=jpmorgan&logoColor=white" alt="JPMorgan Badge"/>
       </a>
     </p>
@@ -33,7 +33,7 @@
 - 👯 I’m looking to collaborate on Phi3 Small Language Model (SLM) for Android
 - 🤔 I’m looking for help with any working SLM model I can get my hands on
 - 💬 Ask me about Java, Angular, EDA-Confluent/Kafka, AWS Cloud
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arnav-negi)
+- 📫 How to reach me: [X](negi.arnav@gmail.com)
 - 😄 Pronouns: He/Him
 
 <!-- markdownlint-disable MD033 -->
